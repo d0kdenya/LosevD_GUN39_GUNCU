@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18ec26f9316829243ae21b948e1c0f16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <SelectCell>k__BackingField: {instanceID: 0}
+  - <MoveCell>k__BackingField: {instanceID: 0}
+  - <AttackCell>k__BackingField: {instanceID: 0}
+  - <MoveAndAttackCell>k__BackingField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
